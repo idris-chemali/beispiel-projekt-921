@@ -10,3 +10,9 @@ nav ul {
     justify-content: center;
     align-items: center;
 }
+
+.slider {
+    color: blue;
+    width: 600px;
+    height: 350px;
+}
